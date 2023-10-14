@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-4",
   "channel_type": "wx",
   "proxy": "",
@@ -10,7 +10,7 @@
   ],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": [
-    "@bot"
+    "@NICEDAYS"
   ],
   "group_name_white_list": [
     "男徳学院",
