@@ -5,13 +5,13 @@
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "NICEDAYS",
-    "@NICEDAYS"
+    "nicedays",
+    "@nicedays"
   ],
-  "single_chat_reply_prefix": "[NICEDAYS] ",
+  "single_chat_reply_prefix": "[nicedays] ",
   "group_chat_prefix": [
-    "@NICEDAYS",
-    "NICEDAYS"
+    "@nicedays",
+    "nicedays"
   ],
   "group_name_white_list": [
     "男徳养生学院",
