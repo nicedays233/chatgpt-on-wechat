@@ -5,21 +5,23 @@
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "NICEDAYS",
+    "@NICEDAYS"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[NICEDAYS] ",
   "group_chat_prefix": [
     "@NICEDAYS",
     "NICEDAYS"
   ],
   "group_name_white_list": [
     "男徳养生学院",
-    "再别小屌"
+    "再别小屌",
+    "测试群"
   ],
   "group_chat_in_one_session": [
     "男徳养生学院",
-    "再别小屌"
+    "再别小屌",
+    "测试群"
   ],
   "image_create_prefix": [
     "画"
