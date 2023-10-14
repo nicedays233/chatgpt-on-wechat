@@ -10,15 +10,16 @@
   ],
   "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": [
-    "@NICEDAYS"
+    "@NICEDAYS",
+    "NICEDAYS"
   ],
   "group_name_white_list": [
     "男徳养生学院",
-    "再见小屌"
+    "再别小屌"
   ],
   "group_chat_in_one_session": [
     "男徳养生学院",
-    "再见小屌"
+    "再别小屌"
   ],
   "image_create_prefix": [
     "画"
